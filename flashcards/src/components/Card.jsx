@@ -6,7 +6,7 @@ const Card = () => {
     const flowers = [
         {
             "flower-name": "Start",
-            "flower-description": "Press the arrow to start the flashcards!",
+            "flower-description": "Press the button to start the flashcards!",
         },
         {
             "flower-name": "Rose",
